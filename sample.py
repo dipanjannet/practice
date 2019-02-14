@@ -6,3 +6,4 @@ print(s)
 li = list(s)
 li.sort()
 print(li[-2])
+kk
