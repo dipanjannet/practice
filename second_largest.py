@@ -8,5 +8,4 @@ for num in alist:
         print('larger', larger)
     elif num > larger:
         larger = num
-        print(larger)
 print(larger)
