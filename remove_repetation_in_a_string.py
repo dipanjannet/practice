@@ -11,6 +11,7 @@ def replace_char(s):
                 if count > 0:
                     for r in range(count):
                         s = replace_char(s)
+                        print(s)
             else:
                 continue
             return s
